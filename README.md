@@ -4,6 +4,19 @@ Qt has its own ownership model, JS engine, and declarative UI paradigm.
 AI models trained on web/standard-library code produce patterns that silently break in Qt.
 These files document what AI gets wrong and what to write instead.
 
+## MCP Server
+
+Use these rules directly in Claude Code (or any MCP client):
+
+```bash
+pipx install git+https://github.com/lpmwfx/QT-RulesMCP.git
+claude mcp add -s user qt-rules -- qt-rules-mcp
+```
+
+Tools: `search_rules`, `get_rule`, `get_context`, `get_learning_path`, `list_rules`
+
+See [QT-RulesMCP](https://github.com/lpmwfx/QT-RulesMCP) for details.
+
 ## Language Rules (AI Anti-Patterns)
 
 Each language has its own directory with one file per topic:
