@@ -61,6 +61,7 @@ CONCEPT_MAP = {
     "qml-rules": ["declarative", "ui-patterns"],
     "qt-mapping": ["api-mapping", "implementation"],
     "ai-traps": ["anti-patterns", "common-mistakes"],
+    "licensing": ["license", "lgpl", "compliance"],
 }
 
 STOP_WORDS = frozenset([
