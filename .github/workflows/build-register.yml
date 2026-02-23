@@ -1,0 +1,30 @@
+name: Build register.jsonl
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '**/*.md'
+      - 'tools/build-register.py'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Build register.jsonl
+        run: python tools/build-register.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet register.jsonl && exit 0
+          git add register.jsonl
+          git commit -m "Rebuild register.jsonl [auto]"
+          git push
