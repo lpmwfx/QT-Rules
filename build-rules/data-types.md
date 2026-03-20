@@ -55,3 +55,12 @@ Runtime state is the in-memory truth during execution.
 * Must be normalized/clamped against constraints.
 
 See [qt-mapping.md](qt-mapping.md) for how runtime state is exposed to QML via Store.
+
+
+---
+
+<!-- LARS:START -->
+<a href="https://lpmathiasen.com">
+  <img src="https://carousel.lpmathiasen.com/carousel.svg?slot=8" alt="Lars P. Mathiasen"/>
+</a>
+<!-- LARS:END -->
