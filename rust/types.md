@@ -46,3 +46,12 @@ impl qobject::Backend {
 See [core-isolation.md](core-isolation.md) for why core logic uses standard Rust types only.
 See [q-property.md](q-property.md) for using these types in property declarations.
 See [errors.md](errors.md) for handling conversion errors at the boundary.
+
+
+---
+
+<!-- LARS:START -->
+<a href="https://lpmathiasen.com">
+  <img src="https://carousel.lpmathiasen.com/carousel.svg?slot=8" alt="Lars P. Mathiasen"/>
+</a>
+<!-- LARS:END -->
