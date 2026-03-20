@@ -58,3 +58,12 @@ BANNED: Mixing `anchors` with `Layout.*` on the same item
 
 See [bindings.md](bindings.md) — layout expressions are bindings; imperative assignment breaks them.
 See [quick-ref.md](quick-ref.md) — quick reference table of common mistakes.
+
+
+---
+
+<!-- LARS:START -->
+<a href="https://lpmathiasen.com">
+  <img src="https://carousel.lpmathiasen.com/carousel.svg?slot=8" alt="Lars P. Mathiasen"/>
+</a>
+<!-- LARS:END -->
