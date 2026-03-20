@@ -171,3 +171,12 @@ RULE: Document env vars in bootstrap.json or README
 - [ ] Socket path uses runtime location
 - [ ] App works in Flatpak sandbox without path changes
 - [ ] Env var overrides documented for dev/test
+
+
+---
+
+<!-- LARS:START -->
+<a href="https://lpmathiasen.com">
+  <img src="https://carousel.lpmathiasen.com/carousel.svg?slot=8" alt="Lars P. Mathiasen"/>
+</a>
+<!-- LARS:END -->
