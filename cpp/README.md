@@ -29,3 +29,12 @@ ownership. AI that ignores these produces code that leaks, crashes, or deadlocks
 | [model-view.md](model-view.md) | Model/View — QAbstractListModel for QML |
 | [engine-ownership.md](engine-ownership.md) | QML engine ownership rules |
 | [quick-ref.md](quick-ref.md) | Common AI mistakes — quick reference table |
+
+
+---
+
+<!-- LARS:START -->
+<a href="https://lpmathiasen.com">
+  <img src="https://carousel.lpmathiasen.com/carousel.svg?slot=8" alt="Lars P. Mathiasen"/>
+</a>
+<!-- LARS:END -->
