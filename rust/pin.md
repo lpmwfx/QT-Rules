@@ -44,3 +44,12 @@ Qt stores `this` pointers internally:
 See [ownership.md](ownership.md) for how Qt parent-child ownership interacts with Rust.
 See [cxx-qt.md](cxx-qt.md) for how the bridge generates Pin-based APIs.
 See [quick-ref.md](quick-ref.md) for the full anti-pattern table.
+
+
+---
+
+<!-- LARS:START -->
+<a href="https://lpmathiasen.com">
+  <img src="https://carousel.lpmathiasen.com/carousel.svg?slot=8" alt="Lars P. Mathiasen"/>
+</a>
+<!-- LARS:END -->
