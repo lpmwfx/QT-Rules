@@ -43,3 +43,12 @@ signals:
 See [engine.md](engine.md) for why `fetch()` and `async/await` are banned in V4.
 See [glue-code.md](glue-code.md) for why complex networking belongs in C++, not QML JS.
 See [validation.md](validation.md) for validating network responses at the C++ boundary.
+
+
+---
+
+<!-- LARS:START -->
+<a href="https://lpmathiasen.com">
+  <img src="https://carousel.lpmathiasen.com/carousel.svg?slot=8" alt="Lars P. Mathiasen"/>
+</a>
+<!-- LARS:END -->
