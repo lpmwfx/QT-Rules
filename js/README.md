@@ -48,3 +48,12 @@ Standalone JS = Node.js tools, generators, build scripts
     |
     +-- Follows ~/.rules/JS/RULES (ESM, Zod, JSDoc)
 ```
+
+
+---
+
+<!-- LARS:START -->
+<a href="https://lpmathiasen.com">
+  <img src="https://carousel.lpmathiasen.com/carousel.svg?slot=8" alt="Lars P. Mathiasen"/>
+</a>
+<!-- LARS:END -->
