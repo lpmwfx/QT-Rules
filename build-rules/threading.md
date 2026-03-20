@@ -142,3 +142,12 @@ pollTimer->start();
 - [ ] Cross-thread communication is channels or queued connections
 - [ ] No `std::mutex` shared between GUI thread and any other
 - [ ] Poll timer interval is configurable (`timing.ui_poll_interval_ms`)
+
+
+---
+
+<!-- LARS:START -->
+<a href="https://lpmathiasen.com">
+  <img src="https://carousel.lpmathiasen.com/carousel.svg?slot=8" alt="Lars P. Mathiasen"/>
+</a>
+<!-- LARS:END -->
