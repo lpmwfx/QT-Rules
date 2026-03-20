@@ -36,3 +36,12 @@ See [file-size.md](file-size.md) — max 150 lines per file; extract when a subt
 See [loader.md](loader.md) — dialogs and heavy pages are good candidates for Loader.
 See [required-properties.md](required-properties.md) — delegates in delegates/ should use required properties.
 See [quick-ref.md](quick-ref.md) — quick reference table of common mistakes.
+
+
+---
+
+<!-- LARS:START -->
+<a href="https://lpmathiasen.com">
+  <img src="https://carousel.lpmathiasen.com/carousel.svg?slot=8" alt="Lars P. Mathiasen"/>
+</a>
+<!-- LARS:END -->
