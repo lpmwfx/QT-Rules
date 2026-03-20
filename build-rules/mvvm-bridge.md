@@ -157,3 +157,12 @@ When writing Qt code, use **both vocabularies** depending on context:
 | State mutated in UI | BuildRules §6.3 | Direct property assignment (not dispatch) | Found |
 | Config not injected | BuildRules §2.2 | Global config read in Core | Found |
 | Non-deterministic Core | BuildRules §1.3 | `time()`, `rand()`, file read in Core | Found |
+
+
+---
+
+<!-- LARS:START -->
+<a href="https://lpmathiasen.com">
+  <img src="https://carousel.lpmathiasen.com/carousel.svg?slot=8" alt="Lars P. Mathiasen"/>
+</a>
+<!-- LARS:END -->
