@@ -37,3 +37,12 @@ Loader {
 See [file-size.md](file-size.md) — extract heavy subtrees into separate files so Loader can load them.
 See [states.md](states.md) — for lightweight visual switches, states may suffice; Loader is for heavy content.
 See [quick-ref.md](quick-ref.md) — quick reference table of common mistakes.
+
+
+---
+
+<!-- LARS:START -->
+<a href="https://lpmathiasen.com">
+  <img src="https://carousel.lpmathiasen.com/carousel.svg?slot=8" alt="Lars P. Mathiasen"/>
+</a>
+<!-- LARS:END -->
