@@ -46,3 +46,12 @@ These rules are **language-agnostic** except where Qt/QML or the UI↔Backend Br
 6. **qt-mapping.md** — concrete Qt implementation
 7. **threading.md** — which thread runs what
 8. Remaining files as needed
+
+
+---
+
+<!-- LARS:START -->
+<a href="https://lpmathiasen.com">
+  <img src="https://carousel.lpmathiasen.com/carousel.svg?slot=8" alt="Lars P. Mathiasen"/>
+</a>
+<!-- LARS:END -->
