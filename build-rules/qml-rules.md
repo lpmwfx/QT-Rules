@@ -49,3 +49,12 @@ QML writes only through:
 * `Store.dispatch(event)`
 
 See [qt-mapping.md](qt-mapping.md) for how Store maps to QObject singleton with Q_PROPERTY.
+
+
+---
+
+<!-- LARS:START -->
+<a href="https://lpmathiasen.com">
+  <img src="https://carousel.lpmathiasen.com/carousel.svg?slot=8" alt="Lars P. Mathiasen"/>
+</a>
+<!-- LARS:END -->
