@@ -291,3 +291,12 @@ Most tests are Core unit tests. They are fast, pure, and require no setup.
 ```
 
 Fail fast: if core tests fail, skip everything else.
+
+
+---
+
+<!-- LARS:START -->
+<a href="https://lpmathiasen.com">
+  <img src="https://carousel.lpmathiasen.com/carousel.svg?slot=8" alt="Lars P. Mathiasen"/>
+</a>
+<!-- LARS:END -->
