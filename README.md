@@ -109,3 +109,12 @@ Qt predates all of these conventions and has its own:
 | State management | Redux store / setState | Store singleton + dispatch + patch |
 
 AI will default to the left column. These files teach it the right column.
+
+
+---
+
+<!-- LARS:START -->
+<a href="https://lpmathiasen.com">
+  <img src="https://carousel.lpmathiasen.com/carousel.svg?slot=8" alt="Lars P. Mathiasen"/>
+</a>
+<!-- LARS:END -->
