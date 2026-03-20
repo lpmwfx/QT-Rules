@@ -29,3 +29,12 @@ and components that cannot be composed.
 | 9 | [required-properties.md](required-properties.md) | Required Properties (Qt 6) |
 | 10 | [quick-ref.md](quick-ref.md) | Common AI Mistakes — Quick Reference |
 | 11 | [file-organization.md](file-organization.md) | File Organization |
+
+
+---
+
+<!-- LARS:START -->
+<a href="https://lpmathiasen.com">
+  <img src="https://carousel.lpmathiasen.com/carousel.svg?slot=8" alt="Lars P. Mathiasen"/>
+</a>
+<!-- LARS:END -->
