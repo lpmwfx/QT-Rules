@@ -35,3 +35,12 @@ Text {
 See [network.md](network.md) for how to structure C++ network clients exposed to QML.
 See [glue-code.md](glue-code.md) for why business logic (including validation) belongs in C++.
 See [types.md](types.md) for using typed QML properties to maintain type safety.
+
+
+---
+
+<!-- LARS:START -->
+<a href="https://lpmathiasen.com">
+  <img src="https://carousel.lpmathiasen.com/carousel.svg?slot=8" alt="Lars P. Mathiasen"/>
+</a>
+<!-- LARS:END -->
