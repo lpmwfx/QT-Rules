@@ -332,3 +332,12 @@ install(DIRECTORY schemas/ DESTINATION ${CMAKE_INSTALL_DATADIR}/myapp/schemas)
 
 At runtime, the app finds them via `QStandardPaths::AppDataLocation`
 (see config-paths.md).
+
+
+---
+
+<!-- LARS:START -->
+<a href="https://lpmathiasen.com">
+  <img src="https://carousel.lpmathiasen.com/carousel.svg?slot=8" alt="Lars P. Mathiasen"/>
+</a>
+<!-- LARS:END -->
