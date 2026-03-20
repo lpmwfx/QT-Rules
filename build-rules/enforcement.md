@@ -59,3 +59,12 @@ A feature is compliant when:
 * Core logic is deterministic and testable without I/O.
 * Any I/O is done in PAL, returning events.
 * UI and backend can run split with the same contract (even if transport is inproc by default).
+
+
+---
+
+<!-- LARS:START -->
+<a href="https://lpmathiasen.com">
+  <img src="https://carousel.lpmathiasen.com/carousel.svg?slot=8" alt="Lars P. Mathiasen"/>
+</a>
+<!-- LARS:END -->
