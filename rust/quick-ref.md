@@ -31,3 +31,12 @@
 - Properties: See [q-property.md](q-property.md)
 - Type mapping: See [types.md](types.md)
 - Core isolation: See [core-isolation.md](core-isolation.md)
+
+
+---
+
+<!-- LARS:START -->
+<a href="https://lpmathiasen.com">
+  <img src="https://carousel.lpmathiasen.com/carousel.svg?slot=8" alt="Lars P. Mathiasen"/>
+</a>
+<!-- LARS:END -->
