@@ -41,3 +41,12 @@ Each component is a separate .qml file with one responsibility.
 See [file-organization.md](file-organization.md) — directory structure for organizing extracted components.
 See [loader.md](loader.md) — use Loader for heavy components that may not be needed immediately.
 See [quick-ref.md](quick-ref.md) — quick reference table of common mistakes.
+
+
+---
+
+<!-- LARS:START -->
+<a href="https://lpmathiasen.com">
+  <img src="https://carousel.lpmathiasen.com/carousel.svg?slot=8" alt="Lars P. Mathiasen"/>
+</a>
+<!-- LARS:END -->
