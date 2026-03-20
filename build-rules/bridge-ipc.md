@@ -38,3 +38,12 @@ There is a minimal bootstrap to locate config/endpoint:
 Bootstrap must contain only what is necessary to reach full config.
 
 See [config-paths.md](config-paths.md) for where bootstrap and config files live on disk.
+
+
+---
+
+<!-- LARS:START -->
+<a href="https://lpmathiasen.com">
+  <img src="https://carousel.lpmathiasen.com/carousel.svg?slot=8" alt="Lars P. Mathiasen"/>
+</a>
+<!-- LARS:END -->
