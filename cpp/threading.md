@@ -77,3 +77,12 @@ BANNED: Accessing GUI from worker thread
 
 See [connections.md](connections.md) for cross-thread connection types.
 See [ownership.md](ownership.md) for lifetime management of worker objects.
+
+
+---
+
+<!-- LARS:START -->
+<a href="https://lpmathiasen.com">
+  <img src="https://carousel.lpmathiasen.com/carousel.svg?slot=8" alt="Lars P. Mathiasen"/>
+</a>
+<!-- LARS:END -->
