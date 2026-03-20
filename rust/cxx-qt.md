@@ -45,3 +45,12 @@ See [pin.md](pin.md) for why cxx-qt generates Pin-based APIs.
 See [signals.md](signals.md) for declaring signals via cxx-qt macros.
 See [q-property.md](q-property.md) for property declarations.
 See [quick-ref.md](quick-ref.md) for the full anti-pattern table.
+
+
+---
+
+<!-- LARS:START -->
+<a href="https://lpmathiasen.com">
+  <img src="https://carousel.lpmathiasen.com/carousel.svg?slot=8" alt="Lars P. Mathiasen"/>
+</a>
+<!-- LARS:END -->
