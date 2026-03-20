@@ -46,3 +46,12 @@ BANNED: `panic!()` in any cxx-qt method
 See [signals.md](signals.md) for declaring the error_occurred and success signals.
 See [async.md](async.md) for error handling in threaded patterns.
 See [core-isolation.md](core-isolation.md) for keeping error-prone logic in the pure Rust core.
+
+
+---
+
+<!-- LARS:START -->
+<a href="https://lpmathiasen.com">
+  <img src="https://carousel.lpmathiasen.com/carousel.svg?slot=8" alt="Lars P. Mathiasen"/>
+</a>
+<!-- LARS:END -->
