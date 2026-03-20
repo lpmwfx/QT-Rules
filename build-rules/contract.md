@@ -48,3 +48,12 @@ Core outputs effects that PAL executes.
 * PAL returns result events like `FileReadOk`, `HttpResponse`, `TimerTick`.
 
 See [threading.md](threading.md) for how effects cross thread boundaries.
+
+
+---
+
+<!-- LARS:START -->
+<a href="https://lpmathiasen.com">
+  <img src="https://carousel.lpmathiasen.com/carousel.svg?slot=8" alt="Lars P. Mathiasen"/>
+</a>
+<!-- LARS:END -->
