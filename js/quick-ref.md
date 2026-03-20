@@ -26,3 +26,12 @@
 See [engine.md](engine.md) for the full BANNED list and correct replacement patterns.
 See [pragma-library.md](pragma-library.md) for how `.pragma library` replaces ESM imports.
 See [network.md](network.md) for the XMLHttpRequest pattern replacing fetch().
+
+
+---
+
+<!-- LARS:START -->
+<a href="https://lpmathiasen.com">
+  <img src="https://carousel.lpmathiasen.com/carousel.svg?slot=8" alt="Lars P. Mathiasen"/>
+</a>
+<!-- LARS:END -->
