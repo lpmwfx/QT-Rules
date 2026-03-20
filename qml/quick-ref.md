@@ -20,3 +20,12 @@
 | `Math.round(parent.width * 0.3)` | Fragile layout | `Layout.preferredWidth` or anchors | [layout.md](layout.md) |
 | `onCompleted: { ... 30 lines }` | Logic in QML | Move to C++ init method | [models.md](models.md) |
 | `children[0]`, `parent.parent` | Fragile tree walking | Named properties, proper API | [scope.md](scope.md) |
+
+
+---
+
+<!-- LARS:START -->
+<a href="https://lpmathiasen.com">
+  <img src="https://carousel.lpmathiasen.com/carousel.svg?slot=8" alt="Lars P. Mathiasen"/>
+</a>
+<!-- LARS:END -->
