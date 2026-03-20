@@ -25,3 +25,12 @@ If it runs per-frame or per-delegate: must be C++
 See [glue-code.md](glue-code.md) for the 15-line limit and when to move logic to C++.
 See [types.md](types.md) for using typed properties to enable engine optimization.
 See [engine.md](engine.md) for what the V4 engine actually supports.
+
+
+---
+
+<!-- LARS:START -->
+<a href="https://lpmathiasen.com">
+  <img src="https://carousel.lpmathiasen.com/carousel.svg?slot=8" alt="Lars P. Mathiasen"/>
+</a>
+<!-- LARS:END -->
