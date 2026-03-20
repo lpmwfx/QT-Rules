@@ -51,3 +51,12 @@ BANNED: Core tests that require QApplication
 See [types.md](types.md) for how to convert between Rust and Qt types at the bridge boundary.
 See [errors.md](errors.md) for the Result-to-signal pattern at the bridge layer.
 See [cxx-qt.md](cxx-qt.md) for the bridge declaration that connects core to Qt.
+
+
+---
+
+<!-- LARS:START -->
+<a href="https://lpmathiasen.com">
+  <img src="https://carousel.lpmathiasen.com/carousel.svg?slot=8" alt="Lars P. Mathiasen"/>
+</a>
+<!-- LARS:END -->
