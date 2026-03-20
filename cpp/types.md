@@ -47,3 +47,12 @@ QVariantMap toQml(const FileEntry &entry) {
 See [q-property.md](q-property.md) for Qt types in Q_PROPERTY declarations.
 See [q-invokable.md](q-invokable.md) for QML-compatible return types.
 See [model-view.md](model-view.md) for type usage in model implementations.
+
+
+---
+
+<!-- LARS:START -->
+<a href="https://lpmathiasen.com">
+  <img src="https://carousel.lpmathiasen.com/carousel.svg?slot=8" alt="Lars P. Mathiasen"/>
+</a>
+<!-- LARS:END -->
