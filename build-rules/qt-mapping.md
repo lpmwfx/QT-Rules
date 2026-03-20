@@ -256,3 +256,12 @@ ListView {
 | Token reload | Replace `m_tokens`, emit `tokensChanged()`, QML rebinds automatically |
 | AxButton / AxCard | QML files wrapping Qt Quick Controls, all values from Store.tokens |
 | Event envelope | `QVariantMap { name, payload }` — serializable, transport-agnostic |
+
+
+---
+
+<!-- LARS:START -->
+<a href="https://lpmathiasen.com">
+  <img src="https://carousel.lpmathiasen.com/carousel.svg?slot=8" alt="Lars P. Mathiasen"/>
+</a>
+<!-- LARS:END -->
