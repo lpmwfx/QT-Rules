@@ -32,3 +32,12 @@
 - Qt vs std types: See [types.md](types.md)
 - Model/View: See [model-view.md](model-view.md)
 - QML engine ownership: See [engine-ownership.md](engine-ownership.md)
+
+
+---
+
+<!-- LARS:START -->
+<a href="https://lpmathiasen.com">
+  <img src="https://carousel.lpmathiasen.com/carousel.svg?slot=8" alt="Lars P. Mathiasen"/>
+</a>
+<!-- LARS:END -->
