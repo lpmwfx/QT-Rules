@@ -72,3 +72,12 @@ BANNED: Running two event loops (tokio + Qt)
 See [signals.md](signals.md) for emitting signals from the queued callback.
 See [errors.md](errors.md) for handling errors in async patterns.
 See [pin.md](pin.md) for why `Pin<&mut Self>` is used in all method signatures.
+
+
+---
+
+<!-- LARS:START -->
+<a href="https://lpmathiasen.com">
+  <img src="https://carousel.lpmathiasen.com/carousel.svg?slot=8" alt="Lars P. Mathiasen"/>
+</a>
+<!-- LARS:END -->
