@@ -41,3 +41,12 @@
 
 * This is not "config as database". Domain data may live in DB/files; configuration governs behavior and constraints.
 * Memory is best-effort continuity, not a source of truth for rules.
+
+
+---
+
+<!-- LARS:START -->
+<a href="https://lpmathiasen.com">
+  <img src="https://carousel.lpmathiasen.com/carousel.svg?slot=8" alt="Lars P. Mathiasen"/>
+</a>
+<!-- LARS:END -->
