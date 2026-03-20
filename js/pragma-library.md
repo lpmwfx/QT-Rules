@@ -44,3 +44,12 @@ export function formatBytes(bytes) { ... }
 See [engine.md](engine.md) for the full BANNED list (including `import`/`export`).
 See [standalone.md](standalone.md) for when regular JS modules (ESM/CJS) are acceptable.
 See [glue-code.md](glue-code.md) for keeping .pragma library functions small and focused.
+
+
+---
+
+<!-- LARS:START -->
+<a href="https://lpmathiasen.com">
+  <img src="https://carousel.lpmathiasen.com/carousel.svg?slot=8" alt="Lars P. Mathiasen"/>
+</a>
+<!-- LARS:END -->
