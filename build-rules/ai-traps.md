@@ -302,3 +302,12 @@ int main() {
 | Single config file | Layered: base + override + runtime |
 | OS calls in Core | Effect → PAL → event back |
 | Fresh start every launch | Memory load → normalize → restore |
+
+
+---
+
+<!-- LARS:START -->
+<a href="https://lpmathiasen.com">
+  <img src="https://carousel.lpmathiasen.com/carousel.svg?slot=8" alt="Lars P. Mathiasen"/>
+</a>
+<!-- LARS:END -->
