@@ -40,3 +40,12 @@ See [q-object.md](q-object.md) — Q_INVOKABLE requires Q_OBJECT macro.
 See [q-property.md](q-property.md) for exposing values (data bindings) to QML.
 See [types.md](types.md) for Qt vs standard C++ type boundaries.
 See [engine-ownership.md](engine-ownership.md) for ownership of objects returned via Q_INVOKABLE.
+
+
+---
+
+<!-- LARS:START -->
+<a href="https://lpmathiasen.com">
+  <img src="https://carousel.lpmathiasen.com/carousel.svg?slot=8" alt="Lars P. Mathiasen"/>
+</a>
+<!-- LARS:END -->
