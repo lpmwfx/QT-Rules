@@ -51,3 +51,12 @@ ListView {
 See [performance.md](performance.md) for why JS in QML is slow and when C++ is required.
 See [validation.md](validation.md) for how to keep validation logic in C++, not QML JS.
 See [types.md](types.md) for type discipline in QML properties.
+
+
+---
+
+<!-- LARS:START -->
+<a href="https://lpmathiasen.com">
+  <img src="https://carousel.lpmathiasen.com/carousel.svg?slot=8" alt="Lars P. Mathiasen"/>
+</a>
+<!-- LARS:END -->
