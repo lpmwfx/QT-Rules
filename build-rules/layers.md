@@ -79,3 +79,12 @@
   * Remote transport (TLS WebSocket / HTTP)
 
 The contract MUST remain stable across transports.
+
+
+---
+
+<!-- LARS:START -->
+<a href="https://lpmathiasen.com">
+  <img src="https://carousel.lpmathiasen.com/carousel.svg?slot=8" alt="Lars P. Mathiasen"/>
+</a>
+<!-- LARS:END -->
