@@ -47,3 +47,12 @@ Text { text: backend.userName }
 See [q-object.md](q-object.md) — Q_PROPERTY requires Q_OBJECT macro.
 See [q-invokable.md](q-invokable.md) for exposing methods (commands) to QML.
 See [types.md](types.md) for which types to use in Q_PROPERTY declarations.
+
+
+---
+
+<!-- LARS:START -->
+<a href="https://lpmathiasen.com">
+  <img src="https://carousel.lpmathiasen.com/carousel.svg?slot=8" alt="Lars P. Mathiasen"/>
+</a>
+<!-- LARS:END -->
