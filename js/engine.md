@@ -61,3 +61,12 @@ function merge(a, b) {
 See [quick-ref.md](quick-ref.md) for a full table of AI mistakes and correct patterns.
 See [pragma-library.md](pragma-library.md) for QML's own module system (replaces import/export).
 See [network.md](network.md) for the correct networking API (replaces fetch).
+
+
+---
+
+<!-- LARS:START -->
+<a href="https://lpmathiasen.com">
+  <img src="https://carousel.lpmathiasen.com/carousel.svg?slot=8" alt="Lars P. Mathiasen"/>
+</a>
+<!-- LARS:END -->
