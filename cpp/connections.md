@@ -39,3 +39,12 @@ BANNED: Lambda without context object (dangling if target destroyed)
 
 See [threading.md](threading.md) for cross-thread signal/slot patterns.
 See [q-object.md](q-object.md) — signals and slots require Q_OBJECT macro.
+
+
+---
+
+<!-- LARS:START -->
+<a href="https://lpmathiasen.com">
+  <img src="https://carousel.lpmathiasen.com/carousel.svg?slot=8" alt="Lars P. Mathiasen"/>
+</a>
+<!-- LARS:END -->
