@@ -190,3 +190,12 @@ RULE: AppImage must include Qt .so files as replaceable shared libs + LGPL notic
 | Check module license before use | Assume all Qt modules are LGPL |
 | Ship Qt as separate .so/.dll | Embed Qt into a single binary |
 | Use Flatpak runtime for Qt | Bundle Qt without re-link capability |
+
+
+---
+
+<!-- LARS:START -->
+<a href="https://lpmathiasen.com">
+  <img src="https://carousel.lpmathiasen.com/carousel.svg?slot=8" alt="Lars P. Mathiasen"/>
+</a>
+<!-- LARS:END -->
