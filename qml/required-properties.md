@@ -37,3 +37,12 @@ See [scope.md](scope.md) — required properties solve the same problem as id re
 See [models.md](models.md) — C++ model roles map directly to required properties in delegates.
 See [signals.md](signals.md) — data flows down via required properties, events flow up via signals.
 See [quick-ref.md](quick-ref.md) — quick reference table of common mistakes.
+
+
+---
+
+<!-- LARS:START -->
+<a href="https://lpmathiasen.com">
+  <img src="https://carousel.lpmathiasen.com/carousel.svg?slot=8" alt="Lars P. Mathiasen"/>
+</a>
+<!-- LARS:END -->
