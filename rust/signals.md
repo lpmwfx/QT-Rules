@@ -49,3 +49,12 @@ See [errors.md](errors.md) for the full Result-to-signal pattern.
 See [async.md](async.md) for emitting signals from background threads via `qt_thread.queue()`.
 See [cxx-qt.md](cxx-qt.md) for the bridge declaration pattern.
 See [q-property.md](q-property.md) for auto-generated NOTIFY signals from properties.
+
+
+---
+
+<!-- LARS:START -->
+<a href="https://lpmathiasen.com">
+  <img src="https://carousel.lpmathiasen.com/carousel.svg?slot=8" alt="Lars P. Mathiasen"/>
+</a>
+<!-- LARS:END -->
