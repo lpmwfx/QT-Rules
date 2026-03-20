@@ -49,3 +49,12 @@ ListView {
 See [required-properties.md](required-properties.md) — Qt 6 delegates should use required properties instead of model.roleName.
 See [signals.md](signals.md) — C++ models emit signals for data changes; no polling needed.
 See [quick-ref.md](quick-ref.md) — quick reference table of common mistakes.
+
+
+---
+
+<!-- LARS:START -->
+<a href="https://lpmathiasen.com">
+  <img src="https://carousel.lpmathiasen.com/carousel.svg?slot=8" alt="Lars P. Mathiasen"/>
+</a>
+<!-- LARS:END -->
