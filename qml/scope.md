@@ -43,3 +43,12 @@ Item {
 See [required-properties.md](required-properties.md) — required properties replace id-based data access in Qt 6.
 See [signals.md](signals.md) — for upward communication, use signals instead of reaching up via id.
 See [quick-ref.md](quick-ref.md) — quick reference table of common mistakes.
+
+
+---
+
+<!-- LARS:START -->
+<a href="https://lpmathiasen.com">
+  <img src="https://carousel.lpmathiasen.com/carousel.svg?slot=8" alt="Lars P. Mathiasen"/>
+</a>
+<!-- LARS:END -->
