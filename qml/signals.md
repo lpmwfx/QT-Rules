@@ -44,3 +44,12 @@ See [scope.md](scope.md) — signals respect file scope; id references across fi
 See [required-properties.md](required-properties.md) — pass data down with required properties, signal up.
 See [models.md](models.md) — C++ models use signals for data change notifications.
 See [quick-ref.md](quick-ref.md) — quick reference table of common mistakes.
+
+
+---
+
+<!-- LARS:START -->
+<a href="https://lpmathiasen.com">
+  <img src="https://carousel.lpmathiasen.com/carousel.svg?slot=8" alt="Lars P. Mathiasen"/>
+</a>
+<!-- LARS:END -->
