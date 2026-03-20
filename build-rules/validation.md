@@ -37,3 +37,12 @@ If override config is invalid:
 Never silently ignore.
 
 See [data-types.md](data-types.md) for the config layering model (base/override/runtime).
+
+
+---
+
+<!-- LARS:START -->
+<a href="https://lpmathiasen.com">
+  <img src="https://carousel.lpmathiasen.com/carousel.svg?slot=8" alt="Lars P. Mathiasen"/>
+</a>
+<!-- LARS:END -->
