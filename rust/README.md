@@ -34,3 +34,12 @@ doesn't compile or segfaults at runtime.
 | 8 | [types.md](types.md) | Type Mapping: Rust to Qt |
 | 9 | [core-isolation.md](core-isolation.md) | Core Logic Isolation |
 | 10 | [quick-ref.md](quick-ref.md) | Common AI Mistakes — Quick Reference |
+
+
+---
+
+<!-- LARS:START -->
+<a href="https://lpmathiasen.com">
+  <img src="https://carousel.lpmathiasen.com/carousel.svg?slot=8" alt="Lars P. Mathiasen"/>
+</a>
+<!-- LARS:END -->
