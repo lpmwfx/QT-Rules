@@ -47,3 +47,12 @@ Persistence must be atomic:
 * write temp → fsync (if available) → rename.
 
 See [config-paths.md](config-paths.md) for `QSaveFile` pattern that implements atomic write.
+
+
+---
+
+<!-- LARS:START -->
+<a href="https://lpmathiasen.com">
+  <img src="https://carousel.lpmathiasen.com/carousel.svg?slot=8" alt="Lars P. Mathiasen"/>
+</a>
+<!-- LARS:END -->
