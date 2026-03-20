@@ -53,3 +53,12 @@ pub struct BackendRust {
 See [types.md](types.md) for which types to use in property declarations.
 See [signals.md](signals.md) for custom signals beyond the auto-generated NOTIFY.
 See [cxx-qt.md](cxx-qt.md) for the full bridge declaration pattern.
+
+
+---
+
+<!-- LARS:START -->
+<a href="https://lpmathiasen.com">
+  <img src="https://carousel.lpmathiasen.com/carousel.svg?slot=8" alt="Lars P. Mathiasen"/>
+</a>
+<!-- LARS:END -->
