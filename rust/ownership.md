@@ -49,3 +49,12 @@ See [pin.md](pin.md) for why Qt objects cannot be moved in memory.
 See [cxx-qt.md](cxx-qt.md) for how the bridge handles ownership safely.
 See [errors.md](errors.md) for how to handle errors without returning Result across the boundary.
 See [quick-ref.md](quick-ref.md) for the full anti-pattern table.
+
+
+---
+
+<!-- LARS:START -->
+<a href="https://lpmathiasen.com">
+  <img src="https://carousel.lpmathiasen.com/carousel.svg?slot=8" alt="Lars P. Mathiasen"/>
+</a>
+<!-- LARS:END -->
