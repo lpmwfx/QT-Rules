@@ -54,3 +54,12 @@ MouseArea { onClicked: parent.state = "editing" }
 See [bindings.md](bindings.md) — imperative assignment in if/else breaks bindings; states preserve them.
 See [loader.md](loader.md) — for heavy conditional content, prefer Loader over state-based visibility.
 See [quick-ref.md](quick-ref.md) — quick reference table of common mistakes.
+
+
+---
+
+<!-- LARS:START -->
+<a href="https://lpmathiasen.com">
+  <img src="https://carousel.lpmathiasen.com/carousel.svg?slot=8" alt="Lars P. Mathiasen"/>
+</a>
+<!-- LARS:END -->
