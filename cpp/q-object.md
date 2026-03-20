@@ -35,3 +35,12 @@ signals:
 See [connections.md](connections.md) for signal/slot connection patterns.
 See [q-property.md](q-property.md) for Q_PROPERTY which also requires Q_OBJECT.
 See [q-invokable.md](q-invokable.md) for Q_INVOKABLE which also requires Q_OBJECT.
+
+
+---
+
+<!-- LARS:START -->
+<a href="https://lpmathiasen.com">
+  <img src="https://carousel.lpmathiasen.com/carousel.svg?slot=8" alt="Lars P. Mathiasen"/>
+</a>
+<!-- LARS:END -->
