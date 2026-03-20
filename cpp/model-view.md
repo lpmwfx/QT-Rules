@@ -55,3 +55,12 @@ private:
 See [q-object.md](q-object.md) — models require Q_OBJECT macro.
 See [types.md](types.md) for type conversion between core and Qt model layer.
 See [q-property.md](q-property.md) for exposing the model instance to QML.
+
+
+---
+
+<!-- LARS:START -->
+<a href="https://lpmathiasen.com">
+  <img src="https://carousel.lpmathiasen.com/carousel.svg?slot=8" alt="Lars P. Mathiasen"/>
+</a>
+<!-- LARS:END -->
