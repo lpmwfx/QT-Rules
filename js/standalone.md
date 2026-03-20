@@ -23,3 +23,12 @@ RULE: Never mix the two — a .js file is either QML-loaded or standalone, never
 
 See [pragma-library.md](pragma-library.md) for QML's own JS module system.
 See [engine.md](engine.md) for what V4 supports vs. web JS.
+
+
+---
+
+<!-- LARS:START -->
+<a href="https://lpmathiasen.com">
+  <img src="https://carousel.lpmathiasen.com/carousel.svg?slot=8" alt="Lars P. Mathiasen"/>
+</a>
+<!-- LARS:END -->
