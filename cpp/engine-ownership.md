@@ -31,3 +31,12 @@ Q_INVOKABLE QObject* createWidget() {
 
 See [ownership.md](ownership.md) for Qt parent-child ownership model.
 See [q-invokable.md](q-invokable.md) for Q_INVOKABLE methods that return objects.
+
+
+---
+
+<!-- LARS:START -->
+<a href="https://lpmathiasen.com">
+  <img src="https://carousel.lpmathiasen.com/carousel.svg?slot=8" alt="Lars P. Mathiasen"/>
+</a>
+<!-- LARS:END -->
