@@ -49,3 +49,12 @@ worker->moveToThread(&workerThread);       // thread takes conceptual ownership
 
 See [engine-ownership.md](engine-ownership.md) for QML engine ownership interactions.
 See [quick-ref.md](quick-ref.md) for common AI mistakes related to ownership.
+
+
+---
+
+<!-- LARS:START -->
+<a href="https://lpmathiasen.com">
+  <img src="https://carousel.lpmathiasen.com/carousel.svg?slot=8" alt="Lars P. Mathiasen"/>
+</a>
+<!-- LARS:END -->
