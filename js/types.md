@@ -40,3 +40,12 @@ property var configData: backend.getConfig()
 See [performance.md](performance.md) for why typed properties allow engine optimization.
 See [glue-code.md](glue-code.md) for keeping QML JS minimal so types stay manageable.
 See [validation.md](validation.md) for validating dynamic data at the C++ boundary.
+
+
+---
+
+<!-- LARS:START -->
+<a href="https://lpmathiasen.com">
+  <img src="https://carousel.lpmathiasen.com/carousel.svg?slot=8" alt="Lars P. Mathiasen"/>
+</a>
+<!-- LARS:END -->
